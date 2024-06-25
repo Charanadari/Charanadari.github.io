@@ -6,4 +6,4 @@ I am a dedicated 4th-year Mechanical Engineering student at Vignan Institute of 
 
 ## Portfolio
 
-This is my portfolio website
+This is my portfolio website for mechanical engineering
