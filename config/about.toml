@@ -1,14 +1,14 @@
-name = "Richard hanrick"
-rol = "Flutter Developer"
-email = "richard@example.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 26, 1996"
-location = "Sacramento, California, USA"
+name = "Charan Adari"
+rol = "Mechanical Engineer"
+email = "charanadari2002@gmail.com"
+phone = "+91 7780557380"
+birthday = "Febraury 18, 2004"
+location = "Vadrapalli, Visakhapatnam, India"
 avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+username = "Charanadari"
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1901.3545306725555!2d83.0014085889!3d17.61654515225135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3973f2b7aea65f%3A0xd510b7cc2ba90dec!2sVadrapalli%2C%20Andhra%20Pradesh%20531033!5e0!3m2!1sen!2sin!4v1719320135410!5m2!1sen!2sin"
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Mechanical Engineer from Visakhapatnam, specializing in innovative solutions and sustainable design. I enjoy transforming complex engineering challenges into practical, efficient, and reliable systems.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to design and develop mechanical systems that are not only functional but also optimized for performance and sustainability. I ensure that each project is executed with precision, integrating advanced engineering principles and cutting-edge technology. My aim is to deliver solutions that enhance productivity and efficiency while minimizing environmental impact. I have contributed to numerous projects across various industries, helping companies improve their mechanical processes and product designs.
 """

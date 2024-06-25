@@ -1,19 +1,20 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
-
-[[doing]]
-title = "Scripting"
-icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using Python to enhance efficiency and productivity."
-
-[[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
-
-[[doing]]
-title = "Web Development"
+title = "CAD Modeling"
 icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+text = "Precision modeling and design using CAD software for mechanical components and assemblies."
+
+[[doing]]
+title = "Finite Element Analysis (FEA)"
+icon = "./config/assets/icons/code.svg"
+text = "Simulation and analysis of mechanical structures and systems to optimize performance and durability."
+
+[[doing]]
+title = "Product Design"
+icon = "./config/assets/icons/compass.svg"
+text = "Innovative conceptualization and development of mechanical products with a focus on functionality and aesthetics."
+
+[[doing]]
+title = "Manufacturing Processes"
+icon = "./config/assets/icons/mobile.svg"
+text = "Implementation of advanced manufacturing techniques to streamline production and improve efficiency."
+
