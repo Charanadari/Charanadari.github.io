@@ -1,5 +1,5 @@
 ############## Education config #################
-
+#################################################
 [[education]]
 title = "Vignan Institute of Technology and Science"
 timeline = "Mar 2022 — Mar 2025"
@@ -20,10 +20,8 @@ title = "Prasanthi Nikethan M.V.V.S Murthy ENG MED School"
 timeline = "Jun 2008 — Mar 2014"
 description = "5th Class"
 
-
 ############## Experience config ################
 #################################################
-
 [[experience]]
 title = "Mechanical Engineering Intern"
 timeline = "Summer 2023"
@@ -42,7 +40,7 @@ description = "Description of your role and responsibilities, highlighting key p
 
 ############## Skills config ####################
 #################################################
-[skills] 
+[skills]
 title = "My Skills"
 enabled = true
 show_bar = true
